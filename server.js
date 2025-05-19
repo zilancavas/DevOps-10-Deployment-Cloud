@@ -9,7 +9,7 @@ const HOST = '0.0.0.0';
 // App
 const app = express();
 app.get('/', (req, res) => {
-  res.send('🚀 Automatisierter Test von GitHub Actions – läuft alles?');
+  res.send('Automatisierter Test von GitHub Actions – läuft alles?');
 });
 
 app.listen(PORT, HOST, () => {
