@@ -4,6 +4,7 @@
 
 | App-Name | Repo URL | Docker Hub URL |
 | -------- | ------- | ------- |
-| DevOpsXYZ | https://hub.docker.com/repository/docker/mosazhaw/node-web-app/general | https://github.com/devopszhaw/DevOps-10-Deployment-Cloud |
+| devopswebappzilan | https://github.com/zilancavas/DevOps-10-Deployment-Cloud | https://hub.docker.com/repository/docker/zilan33/node-web-app/general
+ |
 
 ## Lernjournal
