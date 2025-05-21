@@ -33,3 +33,13 @@
 | 20 | Ich habe die letzten Änderungen committet und in das GitHub-Repository gepusht. | ![cloud-20](images/cloud-20.png) |
 | 22 | Nach erfolgreichem Deployment habe ich die Web-App unter der Azure-Domain aufgerufen und überprüft, ob die Anwendung wie erwartet läuft. Die Ausgabe im Browser bestätigt, dass die Änderun erfolgreich ausgeführt wurde. | ![cloud-22](images/cloud-22.png) |
 
+
+## Fazit 
+Im Lernjournal 10 habe ich einen umfassenden Einblick in die Welt des Cloud-Deployments mit Docker, Azure und GitHub Actions erhalten. Ich habe gelernt, wie man ein Docker-Image lokal baut, in ein öffentliches Docker Hub Repository pusht und anschliessend automatisiert in Azure Web Apps bereitstellt. Dabei habe ich die Bedeutung von Continuous Integration und Continuous Deployment (CI/CD) praktisch nachvollziehen können.
+
+Besonders wertvoll war das praktische Arbeiten mit der Azure CLI und das Verwalten von Secrets in GitHub, um den automatisierten Workflow sicher und zuverlässig zu gestalten. Ich habe verstanden, wie wichtig es ist, Infrastruktur und Code über Workflows zu automatisieren, um Fehlerquellen zu minimieren und Deployments reproduzierbar zu machen.
+
+Die grössten Herausforderungen lagen für mich in der Konfiguration des GitHub Actions Workflows und der Fehlersuche bei den automatischen Deployments. Zudem hat die Beschränkung des kostenlosen Azure-Studentenabos für eine Verzögerung gesorgt, was mich dazu zwang, geduldig zu bleiben und den Prozess besser zu planen.
+Insgesamt fühle ich mich nach diesem Lernjournal sicherer im Umgang mit modernen DevOps-Tools und habe ein tieferes Verständnis für die Abläufe hinter dem Deployment in der Cloud gewonnen. Das erworbene Wissen ist für meine weitere Entwicklung als Wirtschaftsinformatikerin sehr wertvoll und wird mir sicher bei zukünftigen Projekten helfen.
+
+
